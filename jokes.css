@@ -1,0 +1,23 @@
+body {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    height: 100vh;
+    background-color: #666f81;
+    color: antiquewhite;
+}
+
+
+
+#jokes {
+    list-style-type: none;
+}
+
+button {
+    transition: 0.4s;
+}
+
+button:hover {
+    background-color: antiquewhite;
+    color: red;
+}
